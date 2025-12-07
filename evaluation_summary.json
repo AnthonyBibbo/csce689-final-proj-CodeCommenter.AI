@@ -1,0 +1,26 @@
+[
+  {
+    "mode": "zero-shot",
+    "count": 25,
+    "avg_bleu": 1.8562531956579358,
+    "avg_codebleu": 0.29699377236960556
+  },
+  {
+    "mode": "few-shot",
+    "count": 25,
+    "avg_bleu": 8.365931531432206,
+    "avg_codebleu": 0.3045615207200254
+  },
+  {
+    "mode": "domain",
+    "count": 25,
+    "avg_bleu": 1.6604424457496494,
+    "avg_codebleu": 0.22962309712024756
+  },
+  {
+    "mode": "few-shot-domain",
+    "count": 25,
+    "avg_bleu": 5.368902080501616,
+    "avg_codebleu": 0.26558231456351133
+  }
+]
